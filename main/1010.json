@@ -134,8 +134,6 @@
 {"key":"cl_bdys","name":"💦哔嘀磁力","type":3,"api":"csp_XPbd","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://suanjin.github.io/main/MaooXB2/bdyscl.json"},
 {"key":"T4","name":"💦T4(仅支持搜索)","type":4,"api":"https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://xn--m7r412advb92j21st65a.tk/jar"}
 ],
-//https://suanjin.github.io/main/0930.json
-//"spider":"https://suanjin.github.io/TVJAR/shenqi11.jar;md5;48C4CBCA73B33274FEA2D156603A6B0B", 
 "spider":"http://58zy.tk:53503/api/v3/file/get/9/shenqi.jar?sign=jPuJYj0qK4sTXX99nvg9H5pZN4hpHqk6B8Kp_jqkTkw%3D%3A0;md5;48C4CBCA73B33274FEA2D156603A6B0B",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zdWFuamluLmdpdGh1Yi5pby9tYWluL3R2L2NiLnR4dA=="]}]}],
 
