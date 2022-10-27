@@ -8,9 +8,9 @@
 {"key":"360_spider","name":"💦SP┃360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"Lezhu_spider","name":"💦SP┃乐猪影视","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"csp_Nmys","name":"💦SP┃农民影视","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://suanjin.github.io/main/MaooXP/Nmys.json"},
+{"key":"csp_QQ","name":"💦官方┃腾讯视频","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1,"categories":["电视剧","电影","综艺","动漫","少儿","纪录片","知识","学堂"]},
 {"key":"csp_IQIYI","name":"💦官方┃爱奇艺","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,"categories":["儿童","电视","电影","综艺","动漫","纪录","教育","游戏","资讯","娱乐","财经","网络","片花","音乐","军事","体育","旅游","时尚","生活","汽车","搞笑","广告",,"原创","母婴","科技","健康"]},
 {"key":"csp_MGTV","name":"💦官方┃芒果视频","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_QQ","name":"💦官方┃腾讯(仅搜索)","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1,"categories":["电视剧","电影","综艺","动漫","少儿","纪录片","知识","学堂"]},
 {"key":"儿童","name":"💦哔哩┃儿童乐园","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://suanjin.github.io/main/Bili/儿童乐园.json"},
 {"key":"dr_兔小贝","name":"💦哔哩┃兔小贝","type":1,"api":"http://drpy.fuqizhishi.com/vod?rule=兔小贝","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"csp_DiDuan","name":"💦SP┃低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},
@@ -140,7 +140,7 @@
 ],
 //https://suanjin.github.io/main/1010.json
 //"spider":"https://suanjin.github.io/TVJAR/shenqi11.jar;md5;48C4CBCA73B33274FEA2D156603A6B0B", 
-"spider":"http://58zy.tk:53503/api/v3/file/get/271/shenqi.jar?sign=Of1t85YFz8obuKljKPv8vXhmGaZqcJ4DCsEvRMqKiaU%3D%3A0;md5;57ad7f0b01981ebfeebd1258f3dee766",
+"spider":"http://58zy.tk:53503/api/v3/file/get/274/shenqi.jar?sign=nQqb4YEQ_mhFzzeu01_aPl2Dhyckq8jmg2zqxZl73d8%3D%3A0;md5;44430c03b2ffb7993cd7640ea84b0bf1",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zdWFuamluLmdpdGh1Yi5pby9tYWluL3R2L2NiLnR4dA=="]}]}],
 
 "rules" : [
