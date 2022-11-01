@@ -8,9 +8,15 @@
 {"key":"360_spider","name":"💦SP┃360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"Lezhu_spider","name":"💦SP┃乐猪影视","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"csp_Nmys","name":"💦SP┃农民影视","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://suanjin.github.io/main/MaooXP/Nmys.json"},
-{"key":"csp_QQ","name":"💦官方┃腾讯视频","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Lgyy","name":"💦SP┃蓝光","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_fant","name":"💦SP┃饭团","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_IQIYI","name":"💦官方┃爱奇艺","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,"categories":["儿童","电视","电影","综艺","动漫","纪录","教育","游戏","资讯","娱乐","财经","网络","片花","音乐","军事","体育","旅游","时尚","生活","汽车","搞笑","广告",,"原创","母婴","科技","健康"]},
 {"key":"csp_MGTV","name":"💦官方┃芒果视频","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_QQ","name":"💦官方┃腾讯视频","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Xxys","name":"💦SP┃小熊","type":3,"api":"csp_Xxys","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Nkdy","name":"💦SP┃南柯","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Tkys","name":"💦SP┃天空","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"csp_Auete","name":"💦SP┃Aue","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"儿童","name":"💦哔哩┃儿童乐园","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://suanjin.github.io/main/Bili/儿童乐园.json"},
 {"key":"dr_兔小贝","name":"💦哔哩┃兔小贝","type":1,"api":"http://drpy.fuqizhishi.com/vod?rule=兔小贝","searchable":2,"quickSearch":0,"filterable":0},
 {"key":"csp_DiDuan","name":"💦SP┃低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},
@@ -20,6 +26,7 @@
 {"key":"csp_Czsapp","name":"💦SP┃厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ysgc","name":"💦SP┃工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_LibVio","name":"💦SP┃Libvio","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"csp_Anfuns","name":"💦SP┃Anfuns","type":3,"api":"csp_Anfuns","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"追剧喵","name":"💦SP┃追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"3EDY","name":"💦SP┃3EDY(EXO)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_剧荒","name":"💦SP┃剧荒","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
@@ -38,13 +45,8 @@
 {"key": "csp_xpath_qiumi","name": "💦SP┃球赛直播","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://suanjin.github.io/main/MaooXP/516-qiumi.js"}, 
 {"key": "csp_XYQBiu_聚合短视频","name":"💦SP┃聚合短视频(XYQ)","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://suanjin.github.io/main/MaooXP/聚合短视频.js"},
 {"key":"csp_Zxzj","name":"💦SP┃在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"Yisou","name":"💦易搜┃搜索","type":3,"api":"csp_Yiso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},
 //{"key":"KanSJ_spider","name":"💦SP┃看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
-{"key": "极速资源dd","name": "💦SP┃极速资源","type": 1,"api": "http://www.ddzyz1.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","泰国剧","海外剧","灾难片","犯罪片","悬疑片","惊悚片","奇幻片","冒险片","武侠片","纪录片","伦理","动画片","国产动漫","日韩动漫","欧美动漫","国内综艺","海外综艺"]},
-{"key": "极速资源lz","name": "💦SP┃极速资源lz","type": 1,"api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","韩国剧","欧美剧","记录片","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","伦理片","电影解说"]},
-{"key": "极速资源xl","name": "💦SP┃极速资源xl","type": 1,"api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["动作片","爱情片","科幻片","战争片","剧情片","恐怖片","喜剧片","大陆剧","港澳剧","台湾剧","欧美剧","动漫电影","韩剧","日剧","泰剧","伦理片"]},
-{"key": "极速资源gs", "name": "💦SP┃极速资源gs", "type": 1, "api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories": [ "动作片", "爱情片", "科幻片", "战争片", "剧情片", "恐怖片", "喜剧片", "大陆剧", "港澳剧", "台湾剧", "欧美剧", "动漫电影", "韩剧", "日剧", "泰剧", "伦理片"]},
-{"key": "极速资源bd","name": "💦SP┃极速资源bd","type": 1,"api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1},
-
 
 ##Bili系列
 {"key": "学习课堂","name": "💦哔哩┃学习课堂","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://suanjin.github.io/main/Bili/学习课堂.json"},
@@ -60,7 +62,6 @@
 {"key": "美食合集","name": "💦哔哩┃美食合集","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://suanjin.github.io/main/Bili/美食天地.json"},
 {"key": "音乐演唱","name": "💦哔哩┃音乐演唱","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://suanjin.github.io/main/Bili/音乐演唱.json"},
 {"key": "Bili","name": "💦哔哩┃视频合集","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://suanjin.github.io/main/Bili/哔哩.json"}, 
-
 {"key": "csp_XYQBiu_凌云ys","name": "💦XYQ┃凌云影视(XYQ)","type":3,"api": "csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://suanjin.github.io/main/MaooXP/凌云影视.json"},
 
 ##官系列
@@ -134,7 +135,6 @@
 
 ##搜索系列
 {"key":"csp_bendi","name":"📂本地文件","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":1},
-{"key":"Yisou","name":"💦易搜┃搜索","type":3,"api":"csp_Yiso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},
 {"key":"Zhaozy","name":"💦找资源┃搜索","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},
 {"key":"Upyunso","name":"💦Up云搜┃搜索","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},
 {"key":"Alips","name":"💦Ali盘搜┃搜索","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},
@@ -145,7 +145,7 @@
 ],
 //https://suanjin.github.io/main/1010.json
 //"spider":"https://suanjin.github.io/TVJAR/shenqi11.jar;md5;48C4CBCA73B33274FEA2D156603A6B0B", 
-"spider":"http://58zy.tk:53503/api/v3/file/get/274/shenqi.jar?sign=nQqb4YEQ_mhFzzeu01_aPl2Dhyckq8jmg2zqxZl73d8%3D%3A0;md5;44430c03b2ffb7993cd7640ea84b0bf1",
+"spider":"http://58zy.tk:53503/api/v3/file/get/280/shenqi.jar?sign=uzDli0JERtwS5LWK--FU8hTObIWZiI2IwodifjFS_wQ%3D%3A0;md5;5f8fc214f8bda7598a1c4387f7062f2e",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zdWFuamluLmdpdGh1Yi5pby9tYWluL3R2L2NiLnR4dA=="]}]}],
 
 "rules" : [
