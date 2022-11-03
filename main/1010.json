@@ -151,7 +151,7 @@
 ],
 //https://suanjin.github.io/main/1010.json
 //"spider":"https://suanjin.github.io/TVJAR/shenqi11.jar;md5;48C4CBCA73B33274FEA2D156603A6B0B", 
-"spider":"http://58zy.tk:53503/api/v3/file/get/280/shenqi.jar?sign=uzDli0JERtwS5LWK--FU8hTObIWZiI2IwodifjFS_wQ%3D%3A0;md5;5f8fc214f8bda7598a1c4387f7062f2e",
+"spider":"http://58zy.tk:53503/api/v3/file/get/281/shenqi.jar?sign=Xb1LDW5YLkwTFyttjfzTO_DqiAH5uJ21yEwja4D1JJQ%3D%3A0;md5;c4ba98711fac35daff17780d0817f5dc",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zdWFuamluLmdpdGh1Yi5pby9tYWluL3R2L2NiLnR4dA=="]}]}],
 
 "rules" : [
