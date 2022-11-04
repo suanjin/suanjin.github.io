@@ -150,8 +150,8 @@
 {"key":"T4","name":"💦T4(仅支持搜索)","type":4,"api":"https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://xn--m7r412advb92j21st65a.tk/jar"}
 ],
 //https://suanjin.github.io/main/1010.json
-//"spider":"https://suanjin.github.io/TVJAR/shenqi11.jar;md5;48C4CBCA73B33274FEA2D156603A6B0B", 
-"spider":"http://58zy.tk:53503/api/v3/file/get/281/shenqi.jar?sign=Xb1LDW5YLkwTFyttjfzTO_DqiAH5uJ21yEwja4D1JJQ%3D%3A0;md5;c4ba98711fac35daff17780d0817f5dc",
+//"spider":"https://suanjin.github.io/TVJAR/shenqi.jar;md5;c4ba98711fac35daff17780d0817f5dc", 
+"spider":"http://58zy.tk:53503/api/v3/file/get/283/shenqi.jar?sign=TdwJ-3iA5IQdWKTwEJNf3OiptvGh9AqoJaCnkTkO93s%3D%3A0;md5;8382583914f731ee74de7fc89414976a",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zdWFuamluLmdpdGh1Yi5pby9tYWluL3R2L2NiLnR4dA=="]}]}],
 
 "rules" : [
@@ -161,6 +161,9 @@
 { "host" : "hdmoli.com", "rule" : [ ".m3u8"] },
 { "host" : "https://api.live.bilibili.com", "rule" : [ "bilivideo.com", "/index.m3u8"], "filter" : [ "data.bilibili.com/log/web", "i0.hdslb.com/bfs/live/"] },
 { "host" : "www.agemys.cc", "rule" : [ "cdn-tos", "obj/tos-cn"] },
+{ "host": "https://www.ikandy.fun", "manual": "1", "format": ".mp4#.m3u8#.flv", "filters": ".html#=http" },
+{ "host": "https://czspp.com", "manual": "1", "format": ".mp4#.m3u8#.flv", "filters": ".html#=http" },
+{ "host": "yanetflix.com", "manual": "1", "format": ".mp4#.m3u8#.flv", "filters": ".html#=http" },
 { "host" : "www.fun4k.com", "rule" : [ "https://hd.ijycnd.com/play", "index.m3u8"] },
 { "host" : "zjmiao.com", "rule" : [ "play.videomiao.vip/API.php", "time=", "key=", "path="] }
 ],
