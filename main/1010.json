@@ -32,7 +32,7 @@
 {"key":"csp_剧荒","name":"💦SP┃剧荒","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bttoo","name":"💦SP┃两个BT","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Zjdr","name":"💦SP┃追剧","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"IKan","name":"💦SP┃爱看","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://58zy.tk:53503/api/v3/file/get/272/ts.jar?sign=my4_ajZ72ropwaEGLPkF29zckCNXlsECBRa-AL46ht4%3D%3A0;md5;7b3db472894cc021c4b19daa26e1282a"},
+{"key":"IKan","name":"💦SP┃爱看","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://suanjin.github.io/TVJAR/ts.jar;md5;7b3db472894cc021c4b19daa26e1282a"},
 {"key":"csp_Smdyy","name": "💦SP┃神马","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Cokemv","name":"💦SP┃Cok","type":3,"api":"csp_Cokemv","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"Gitcafe","name":"💦SP┃小纸条(SP)","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://suanjin.github.io/main/MaooXB2/token.txt","jar":"https://suanjin.github.io/TVJAR/Yoursmile.jar;md5;D7FF967B08194FE72BA0BFC04AF97361"},
@@ -151,7 +151,7 @@
 ],
 //https://suanjin.github.io/main/1010.json
 //"spider":"https://suanjin.github.io/TVJAR/shenqi.jar;md5;c4ba98711fac35daff17780d0817f5dc", 
-"spider":"http://58zy.tk:53503/api/v3/file/get/283/shenqi.jar?sign=TdwJ-3iA5IQdWKTwEJNf3OiptvGh9AqoJaCnkTkO93s%3D%3A0;md5;8382583914f731ee74de7fc89414976a",
+"spider":"https://suanjin.github.io/TVJAR/shenqi.jar;md5;8382583914f731ee74de7fc89414976a",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zdWFuamluLmdpdGh1Yi5pby9tYWluL3R2L2NiLnR4dA=="]}]}],
 
 
