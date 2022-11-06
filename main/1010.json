@@ -160,7 +160,7 @@
 {"name":"自动解析","type":3,"url":"Demo"},
 {"name":"自动并发","type": 2,"url": "Parallel"},
 {"name":"自动轮询","type": 2,"url": "Sequence"},
-{"name":"解析测试","type":1,"url":"http://211.99.99.236:4567/jhjson/ceshi.php?url=","ext": {"flag": ["rx", "ltnb", "renrenmi", "rongxing", "bilibili", "哔哩哔哩", "哔哩", "youku", "优酷", "qiyi", "爱奇艺", "奇艺", "qq", "腾讯", "mgtv", "芒果", "sohu", "搜狐", "letv", "乐视", "xigua", "CL4K", "西瓜"]}},
+//{"name":"解析测试","type":1,"url":"http://211.99.99.236:4567/jhjson/ceshi.php?url=","ext": {"flag": ["rx", "ltnb", "renrenmi", "rongxing", "bilibili", "哔哩哔哩", "哔哩", "youku", "优酷", "qiyi", "爱奇艺", "奇艺", "qq", "腾讯", "mgtv", "芒果", "sohu", "搜狐", "letv", "乐视", "xigua", "CL4K", "西瓜"]}},
 {"name":"解析BT5V","type":1,"url": "https://rx.bt5v.com/json/jsonindex.php/?url=","ext": {"flag": ["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header": {"User-Agent": "Mozilla/5.0"}}},
 {"name":"解析json","type": 1,"url": "https://k.json.icu/json-2.php?uid=6076817&key=bhjmnprBCDFMR03459&url="},
 {"name":"解析能解","type": 1,"url": "http://jx.vipmv.co/json.php?token=123457&url=","ext": {"flag": ["rx", "ltnb", "renrenmi", "rongxing", "bilibili", "哔哩哔哩", "哔哩", "youku", "优酷", "qiyi", "爱奇艺", "奇艺", "qq", "腾讯", "mgtv", "芒果", "sohu", "搜狐", "letv", "乐视", "xigua", "CL4K", "西瓜"]}},
