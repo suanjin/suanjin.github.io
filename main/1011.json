@@ -342,6 +342,13 @@
             "ext" : "https://suanjin.github.io/main/JS/js/歪片星球.js"
         },
             {
+            "key" : "drpy_js_落攻阁影视",
+            "name" : "💦JS┃落攻阁影视",
+            "type" : 3,
+            "api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js",
+            "ext" : "https://suanjin.github.io/main/JS/js/落攻阁影视.js"
+        },
+            {
             "key" : "drpy_js_追剧迷",
             "name":"💦JS┃追剧迷",
             "type" : 3,
@@ -480,6 +487,20 @@
             "type" : 3,
             "api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js",
             "ext" : "https://suanjin.github.io/main/JS/js/看片狂人.js"
+        },
+            {
+            "key" : "drpy_js_浮生半日",
+            "name" : "💦JS┃浮生半日",
+            "type" : 3,
+            "api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js",
+            "ext" : "https://suanjin.github.io/main/JS/js/浮生半日.js"
+        },
+            {
+            "key" : "drpy_js_八蛋影视",
+            "name" : "💦JS┃八蛋影视",
+            "type" : 3,
+            "api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js",
+            "ext" : "https://suanjin.github.io/main/JS/js/八蛋影视.js"
         },
             {
             "key" : "drpy_js_美视网",
@@ -1209,6 +1230,20 @@
             "type" : 3,
             "api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js",
             "ext" : "https://suanjin.github.io/main/JS/js/酷酷韩剧.js"
+        },
+            {
+            "key" : "drpy_js_稀饭影视",
+            "name" : "💦JS┃稀饭影视",
+            "type" : 3,
+            "api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js",
+            "ext" : "https://suanjin.github.io/main/JS/js/稀饭影视.js"
+        },
+            {
+            "key" : "drpy_js_欧帝影院[飞]",
+            "name" : "💦JS┃欧帝影院[飞]",
+            "type" : 3,
+            "api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js",
+            "ext" : "https://suanjin.github.io/main/JS/js/欧帝影院[飞].js"
         },
             {
             "key" : "drpy_js_UrleBird[飞]",
