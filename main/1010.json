@@ -154,7 +154,6 @@
 "spider":"https://suanjin.github.io/TVJAR/shenqi.jar;md5;8382583914f731ee74de7fc89414976a",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zdWFuamluLmdpdGh1Yi5pby9tYWluL3R2L2NiLnR4dA=="]}]}],
 
-
 "parses":[
 {"name":"自动解析","type":3,"url":"Demo"},
 {"name":"自动并发","type": 2,"url": "Parallel"},
@@ -170,7 +169,7 @@
 {"name":"解析酷享","type":1,"url":"http://pandown.pro/app/kxjx.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}},
 {"name":"解析江湖","type":1,"url":"http://pandown.pro/app/ysmjx.php?url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905","优播线路","腾播线路"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
 {"name":"解析左岸","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=cqrtwyACDGLOXY0249&mgtv=app&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}},
-{"name":"解析keyu","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}}],
+{"name":"解析keyu","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 { "name" : "解析荣兴", "type" : 1, "url" : "http://jx.dygfsdy.com/home/api?type=ys&uid=129415&key=acdmoruwxCDEKPZ679&url=" },
 { "name" : "解析懒懒1", "type" : 1, "url" : "http://123.57.56.94:9931/lanlan/?url=" },
 { "name" : "解析懒懒2", "type" : 1, "url" : "http://lanlan.ckflv.cn/?url=", "ext" : { "flag" : [ "qiyi", "qq", "letv", "sohu", "youku", "mgtv", "bilibili", "wasu", "xigua", "1905"] } },
@@ -218,6 +217,7 @@
 {"name":"嗅探最先","type":0,"url":"https://jx.zui.cm/?url=","ext": {"flag": ["rx", "ltnb", "renrenmi", "rongxing", "bilibili", "哔哩哔哩", "哔哩", "youku", "优酷", "qiyi", "爱奇艺", "奇艺", "qq", "腾讯", "mgtv", "芒果", "sohu", "搜狐", "letv", "乐视", "xigua", "CL4K", "西瓜"]}},
 {"name":"嗅探虾米","type":0,"url":"https://jx.xmflv.com/?url=","ext": {"flag": ["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header": {"User-Agent": "Mozilla/5.0"}}}
 ],
+
 
 
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","优酷","芒果","腾讯","爱奇艺","奇艺","duoduozy","longteng","renrenmi","ltnb","rx","xueren","xfyun","ziqie","wuduzy","CL4K","xuanfeng","1905","1920i","mim3u8","laodim3u8","leduo","rongxing","wuduyun","xueren","naifeimi","miaoparty","miaoparty2","miaoparty3","xfy","xfyun","x1play","fuckapp","ftqp2","ftqp3","ftqp4","ftqp5","1920l"],
