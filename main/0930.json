@@ -337,14 +337,14 @@
         },
             {
             "key" : "drpy_js_BD影视",
-            "name" : "💦JS┃BD影视[DRPY]",
+            "name" : "💦JS┃BD影视",
             "type" : 3,
             "api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js",
             "ext" : "https://suanjin.github.io/main/JS/js/BD影视.js"
         },
             {
             "key" : "drpy_js_2099电影",
-            "name" : "💦JS┃2099电影[DRPY]",
+            "name" : "💦JS┃2099电影",
             "type" : 3,
             "api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js",
             "ext" : "https://suanjin.github.io/main/JS/js/2099电影.js"
