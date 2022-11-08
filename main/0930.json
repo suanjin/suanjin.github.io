@@ -1393,7 +1393,7 @@
 ],
 //https://suanjin.github.io/main/1010.json
 //"spider":"https://suanjin.github.io/TVJAR/shenqi11.jar;md5;48C4CBCA73B33274FEA2D156603A6B0B", 
-"spider":"https://suanjin.github.io/TVJAR/shenqi.jar;md5;8382583914f731ee74de7fc89414976a",
+"spider":"https://suanjin.github.io/TVJAR/shenqi.jar;md5;514b2583db5a6741fd5631facd217317",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zdWFuamluLmdpdGh1Yi5pby9tYWluL3R2L2NiLnR4dA=="]}]}],
 
 "rules" : [
