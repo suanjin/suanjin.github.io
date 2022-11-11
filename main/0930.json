@@ -264,7 +264,7 @@
         },
             {
             "key" : "drpy_js_JRS看球网",
-            "name":"💦JS┃JRS看球网5G",
+            "name":"💦JS┃JRS看球网",
             "type" : 3,
             "api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js",
             "ext" : "https://suanjin.github.io/main/JS/js/JRS看球网.js"
@@ -299,7 +299,7 @@
         },
             {
             "key" : "drpy_js_学生球赛录像[js1]",
-            "name":"💦JS┃学生球赛录像[js1]",
+            "name":"💦JS┃学生球赛录像",
             "type" : 3,
             "api" : "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js",
             "ext" : "https://suanjin.github.io/main/JS/js/学生球赛录像[js1].js"
