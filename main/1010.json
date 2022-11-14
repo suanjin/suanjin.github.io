@@ -150,6 +150,7 @@
 {"key":"T4","name":"💦T4(仅支持搜索)","type":4,"api":"https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://xn--m7r412advb92j21st65a.tk/jar"}
 ],
 //https://suanjin.github.io/main/1010.json
+"wallpaper" : "http://刚刚.live/图",
 //"spider":"https://suanjin.github.io/TVJAR/shenqi.jar;md5;c4ba98711fac35daff17780d0817f5dc", 
 "spider":"https://suanjin.github.io/TVJAR/shenqi.jar;md5;dfb6921758f78f9aa7cce816a4ae49f7",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zdWFuamluLmdpdGh1Yi5pby9tYWluL3R2L2NiLnR4dA=="]}]}],
