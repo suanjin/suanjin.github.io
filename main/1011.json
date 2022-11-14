@@ -1423,7 +1423,7 @@
 {"key":"push_agent","name":"💦手机推送┃云盘|磁力","type":3,"api":"csp_PushAgent","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},
 {"key":"T4","name":"💦T4(仅支持搜索)","type":4,"api":"https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://xn--m7r412advb92j21st65a.tk/jar"}
 ],
-"wallpaper" : "https://suanjin.github.io/",
+"wallpaper" : "https://suanjin.github.io/index.html",
 //https://suanjin.github.io/main/1010.json
 //"spider":"https://suanjin.github.io/TVJAR/shenqi11.jar;md5;48C4CBCA73B33274FEA2D156603A6B0B", 
 "spider":"https://suanjin.github.io/TVJAR/shenqi.jar;md5;dfb6921758f78f9aa7cce816a4ae49f7",
