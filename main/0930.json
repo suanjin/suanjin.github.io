@@ -396,6 +396,34 @@
             "ext" : "https://suanjin.github.io/main/JS/js/追剧迷.js"
         },
             {
+            "key" : "drpy_js_追剧兔",
+            "name":"💦JS┃追剧兔",
+            "type" : 3,
+            "api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js",
+            "ext" : "https://suanjin.github.io/main/JS/js/追剧兔.js"
+        },
+            {
+            "key" : "drpy_js_煲剧吧",
+            "name":"💦JS┃煲剧吧",
+            "type" : 3,
+            "api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js",
+            "ext" : "https://suanjin.github.io/main/JS/js/煲剧吧.js"
+        },
+            {
+            "key" : "drpy_js_闪影影院",
+            "name":"💦JS┃闪影影院",
+            "type" : 3,
+            "api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js",
+            "ext" : "https://suanjin.github.io/main/JS/js/闪影影院.js"
+        },
+            {
+            "key" : "drpy_js_在线之家Ⅱ",
+            "name":"💦JS┃在线之家Ⅱ",
+            "type" : 3,
+            "api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js",
+            "ext" : "https://suanjin.github.io/main/JS/js/在线之家Ⅱ.js"
+        },
+            {
             "key" : "drpy_js_盛世电影网",
             "name":"💦JS┃盛世电影网",
             "type" : 3,
@@ -1277,6 +1305,13 @@
             "type" : 3,
             "api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js",
             "ext" : "https://suanjin.github.io/main/JS/js/稀饭影视.js"
+        },
+            {
+            "key" : "drpy_js_大中影视[飞]",
+            "name":"💦JS┃大中影视[飞]",
+            "type" : 3,
+            "api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js",
+            "ext" : "https://suanjin.github.io/main/JS/js/大中影视[飞].js"
         },
             {
             "key" : "drpy_js_欧帝影院[飞]",
