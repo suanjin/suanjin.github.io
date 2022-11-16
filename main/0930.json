@@ -348,6 +348,20 @@
             "ext" : "https://suanjin.github.io/main/JS/js/金曼影视.js"
         },
             {
+            "key" : "drpy_js_天天影视",
+            "name" : "💦JS┃天天影视",
+            "type" : 3,
+            "api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js",
+            "ext" : "https://suanjin.github.io/main/JS/js/天天影视.js"
+        },
+            {
+            "key" : "drpy_js_蚂蚁影视",
+            "name" : "💦JS┃蚂蚁影视",
+            "type" : 3,
+            "api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js",
+            "ext" : "https://suanjin.github.io/main/JS/js/蚂蚁影视.js"
+        },
+            {
             "key" : "drpy_js_BD影视",
             "name" : "💦JS┃BD影视",
             "type" : 3,
