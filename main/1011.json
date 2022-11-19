@@ -383,6 +383,34 @@
             "ext" : "https://suanjin.github.io/main/JS/js/天天影视.js"
         },
             {
+            "key" : "drpy_js_乐鱼影视",
+            "name" : "💦JS┃乐鱼影视",
+            "type" : 3,
+            "api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js",
+            "ext" : "https://suanjin.github.io/main/JS/js/乐鱼影视.js"
+        },
+            {
+            "key" : "drpy_js_爱猫影院",
+            "name" : "💦JS┃爱猫影院",
+            "type" : 3,
+            "api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js",
+            "ext" : "https://suanjin.github.io/main/JS/js/爱猫影院.js"
+        },
+            {
+            "key" : "drpy_js_猫影汇",
+            "name" : "💦JS┃猫影汇",
+            "type" : 3,
+            "api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js",
+            "ext" : "https://suanjin.github.io/main/JS/js/猫影汇.js"
+        },
+            {
+            "key" : "drpy_js_超前点播",
+            "name" : "💦JS┃超前点播",
+            "type" : 3,
+            "api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js",
+            "ext" : "https://suanjin.github.io/main/JS/js/超前点播.js"
+        },
+            {
             "key" : "drpy_js_蚂蚁影视",
             "name" : "💦JS┃蚂蚁影视",
             "type" : 3,
@@ -1299,6 +1327,27 @@
             "type" : 3,
             "api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js",
             "ext" : "https://suanjin.github.io/main/JS/js/小宝影视.js"
+        },
+            {
+            "key" : "drpy_js_麻花影视",
+            "name" : "💦JS┃麻花影视",
+            "type" : 3,
+            "api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js",
+            "ext" : "https://suanjin.github.io/main/JS/js/麻花影视.js"
+        },
+            {
+            "key" : "drpy_js_乐动影视",
+            "name" : "💦JS┃乐动影视",
+            "type" : 3,
+            "api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js",
+            "ext" : "https://suanjin.github.io/main/JS/js/乐动影视.js"
+        },
+            {
+            "key" : "drpy_js_KOK影视",
+            "name" : "💦JS┃KOK影视",
+            "type" : 3,
+            "api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js",
+            "ext" : "https://suanjin.github.io/main/JS/js/KOK影视.js"
         },
             {
             "key" : "drpy_js_小宝影院",
