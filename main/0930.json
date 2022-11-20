@@ -1548,7 +1548,7 @@
 //https://suanjin.github.io/main/1010.json
 "wallpaper" : "http://刚刚.live/图",
 //"spider":"https://agit.ai/suanjin/apk/raw/branch/jar/TVJAR/shenqi11.jar;md5;48C4CBCA73B33274FEA2D156603A6B0B", 
-"spider":"https://agit.ai/suanjin/apk/raw/branch/jar/TVJAR/shenqi.jar;md5;5c6c080c6e613725e6350bde4c084548",
+"spider":"https://agit.ai/suanjin/apk/raw/branch/jar/TVJAR/shenqi.jar;md5;93a4240ec3833cc07128ed2693294369",
 "lives": [
     {
       "name": "直播",
