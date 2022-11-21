@@ -329,7 +329,7 @@
         },
             {
             "key" : "drpy_js_学生球赛录像[js1]",
-            "name":"💦JS┃学生球赛录像",
+            "name":"💦JS┃学生球赛",
             "type" : 3,
             "api" : "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js",
             "ext" : "https://suanjin.github.io/main/JS/js/学生球赛录像[js1].js"
@@ -1430,7 +1430,7 @@
         },
             {
             "key" : "drpy_js_KUBO影视[飞]",
-            "name":"💦JS┃KUBO影视[飞]",
+            "name":"💦JS┃KU影视[飞]",
             "type" : 3,
             "api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js",
             "ext" : "https://suanjin.github.io/main/JS/js/KUBO影视[飞].js"
