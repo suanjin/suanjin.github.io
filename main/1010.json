@@ -13,6 +13,7 @@
 {"key":"csp_IQIYI","name":"💦官方┃爱奇艺","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,"categories":["儿童","电视","电影","综艺","动漫","纪录","教育","游戏","资讯","娱乐","财经","网络","片花","音乐","军事","体育","旅游","时尚","生活","汽车","搞笑","广告",,"原创","母婴","科技","健康"]},
 {"key":"csp_MGTV","name":"💦官方┃芒果视频","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_QQ","name":"💦官方┃腾讯视频","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"YQK_spider","name":"💦YQK┃一起看TV","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz","jar":"http://rl1eetffv.bkt.clouddn.com/qj1122.jar;md5;1c8bcbb4ac6ca9f5926f32fb6c5aff21"},	
 {"key":"csp_Xxys","name":"💦SP┃小熊","type":3,"api":"csp_Xxys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nkdy","name":"💦SP┃南柯","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dy1010","name":"💦SP┃双十","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
