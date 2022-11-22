@@ -17,7 +17,7 @@
 {"key" : "drpy_js_腾云驾雾","name" : "💦JS┃腾讯视频","type" : 3,"api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js","ext" : "https://suanjin.github.io/main/JS/js/腾云驾雾.js"},
 {"key" : "drpy_js_百忙无果","name" : "💦JS┃芒果视频","type" : 3,"api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js","ext" : "https://suanjin.github.io/main/JS/js/百忙无果.js"},
 {"key" : "drpy_js_奇珍异兽","name" : "💦JS┃爱奇艺","type" : 3,"api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js","ext" : "https://suanjin.github.io/main/JS/js/奇珍异兽.js"},
-{"key":"YQK_spider","name":"💦YQK┃一起看TV","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz","jar":"http://rl1eetffv.bkt.clouddn.com/qj1122.jar;md5;1c8bcbb4ac6ca9f5926f32fb6c5aff21"},
+{"key":"YQK_spider","name":"💦YQK┃一起TV","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz","jar":"http://rl1eetffv.bkt.clouddn.com/qj1122.jar;md5;1c8bcbb4ac6ca9f5926f32fb6c5aff21"},
 {"key":"csp_Xxys","name":"💦SP┃小熊","type":3,"api":"csp_Xxys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nkdy","name":"💦SP┃南柯","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Tkys","name":"💦SP┃天空","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -367,6 +367,34 @@
             "type" : 3,
             "api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js",
             "ext" : "https://suanjin.github.io/main/JS/js/歪片星球.js"
+        },
+            {
+            "key" : "drpy_js_布雷蓝光",
+            "name" : "💦JS┃布雷蓝光",
+            "type" : 3,
+            "api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js",
+            "ext" : "https://suanjin.github.io/main/JS/js/布雷蓝光.js"
+        },
+            {
+            "key" : "drpy_js_私人影院",
+            "name" : "💦JS┃私人影院",
+            "type" : 3,
+            "api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js",
+            "ext" : "https://suanjin.github.io/main/JS/js/私人影院.js"
+        },
+            {
+            "key" : "drpy_js_艾斯影院",
+            "name" : "💦JS┃艾斯影院",
+            "type" : 3,
+            "api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js",
+            "ext" : "https://suanjin.github.io/main/JS/js/艾斯影院.js"
+        },
+            {
+            "key" : "drpy_js_348电影网",
+            "name" : "💦JS┃348影院",
+            "type" : 3,
+            "api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js",
+            "ext" : "https://suanjin.github.io/main/JS/js/348电影网.js"
         },
             {
             "key" : "drpy_js_金曼影视",
@@ -1463,7 +1491,7 @@
         },
             {
             "key" : "drpy_js_异世界动漫",
-            "name":"💦JS┃异世界动漫",
+            "name":"💦JS┃异界动漫",
             "type" : 3,
             "api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js",
             "ext" : "https://suanjin.github.io/main/JS/js/异世界动漫.js"
