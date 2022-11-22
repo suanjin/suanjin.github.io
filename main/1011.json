@@ -1583,7 +1583,7 @@
 ],
 "wallpaper" : "http://刚刚.live/图",
 //https://suanjin.github.io/main/1010.json
-//"spider":"https://gitee.com/suanjin/jar/raw/mastershenqi11.jar;md5;48C4CBCA73B33274FEA2D156603A6B0B", 
+//"spider":"https://gitee.com/suanjin/jar/raw/master/shenqi11.jar;md5;48C4CBCA73B33274FEA2D156603A6B0B", 
 "spider":"https://gitee.com/suanjin/jar/raw/master/shenqi.jar;md5;93a4240ec3833cc07128ed2693294369",
 "lives": [
     {
