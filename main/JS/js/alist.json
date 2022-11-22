@@ -1,5 +1,12 @@
 [
         {
+        "name" : "悟空",
+        "server" : "http://悟空.tk:89",
+        "startPage" : "/",
+        "showAll" : false,
+        "search" : true
+    },
+        {
         "name" : "丫仙女",
         "server" : "http://alist.xiaoya.pro/",
         "startPage" : "/",
