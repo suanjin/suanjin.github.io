@@ -128,7 +128,7 @@
 {"key":"py_yixi","name":"💦PY┃一席","type":3,"api":"py_yixi","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://suanjin.github.io/main/py/py_yixi.py"},
  
 ##DRPY道长版系列
-          {
+           {
             "key" : "drpy_js_豆瓣",
             "name" : "💦JS┃豆瓣",
             "type" : 3,
@@ -149,7 +149,6 @@
             "api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js",
             "ext" : "https://suanjin.github.io/main/JS/js/360影视.js"
         },
-
             {
             "key" : "drpy_js_菜狗",
             "name":"💦JS┃搜狗",
@@ -478,6 +477,20 @@
             "ext" : "https://suanjin.github.io/main/JS/js/私人影院.js"
         },
             {
+            "key" : "drpy_js_天空影视",
+            "name" : "💦JS┃天空影视",
+            "type" : 3,
+            "api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js",
+            "ext" : "https://suanjin.github.io/main/JS/js/天空影视.js"
+        },
+            {
+            "key" : "drpy_js_爱看影视",
+            "name" : "爱看影视[DRPY]",
+            "type" : 3,
+            "api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js",
+            "ext" : "https://suanjin.github.io/main/JS/js/爱看影视.js"
+        },
+            {
             "key" : "drpy_js_348电影网",
             "name" : "💦JS┃348电影",
             "type" : 3,
@@ -574,6 +587,13 @@
             "type" : 3,
             "api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js",
             "ext" : "https://suanjin.github.io/main/JS/js/利丽娅电影.js"
+        },
+            {
+            "key" : "drpy_js_土狗影院",
+            "name" : "💦JS┃土狗影院",
+            "type" : 3,
+            "api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js",
+            "ext" : "https://suanjin.github.io/main/JS/js/土狗影院.js"
         },
             {
             "key" : "drpy_js_楚门影院",
@@ -793,13 +813,6 @@
             "ext" : "https://suanjin.github.io/main/JS/js/大师兄影视.js"
         },
             {
-            "key" : "drpy_js_天空影视",
-            "name":"💦JS┃天空影视",
-            "type" : 3,
-            "api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js",
-            "ext" : "https://suanjin.github.io/main/JS/js/天空影视.js"
-        },
-            {
             "key" : "drpy_js_完美看看",
             "name":"💦JS┃完美看看",
             "type" : 3,
@@ -812,13 +825,6 @@
             "type" : 3,
             "api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js",
             "ext" : "https://suanjin.github.io/main/JS/js/快云影院.js"
-        },
-            {
-            "key" : "drpy_js_爱看影视",
-            "name":"💦JS┃爱看影视",
-            "type" : 3,
-            "api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js",
-            "ext" : "https://suanjin.github.io/main/JS/js/爱看影视.js"
         },
             {
             "key" : "drpy_js_爱看电影",
@@ -1037,6 +1043,13 @@
             "type" : 3,
             "api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js",
             "ext" : "https://suanjin.github.io/main/JS/js/乐动影视.js"
+        },
+            {
+            "key" : "drpy_js_伊人追剧",
+            "name" : "💦JS┃伊人追剧",
+            "type" : 3,
+            "api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js",
+            "ext" : "https://suanjin.github.io/main/JS/js/伊人追剧.js"
         },
             {
             "key" : "drpy_js_兔小贝",
