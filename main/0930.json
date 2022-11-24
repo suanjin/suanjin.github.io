@@ -69,7 +69,7 @@
 {"key":"csp_Cokemv","name":"💦SP┃Cok","type":3,"api":"csp_Cokemv","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mjxq_spider","name":"💦SP┃美剧星球","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Anime1","name":"💦SP┃日本动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"AList","name": "💦SP┃AList","type": "3","api":"csp_AList","searchable":"1","ext": "https://suanjin.github.io/main/Bili/alist.json","jar":"https://gitee.com/suanjin/jar/raw/master/custom_spider.jar;md5;6bffa41ce4b4c9f6ff6882aa5e515d8e"},
+{"key":"AList","name": "💦SP┃AList","type": "3","api":"csp_AList","searchable":"1","ext": "https://suanjin.github.io/main/Bili/alist1.json","jar":"https://gitee.com/suanjin/jar/raw/master/custom_spider.jar;md5;6bffa41ce4b4c9f6ff6882aa5e515d8e"},
 {"key": "csp_xpath_qiumi","name": "💦XP┃球赛直播","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://suanjin.github.io/main/XPath/516-qiumi.js"}, 
 {"key": "csp_XYQBiu_聚合短视频","name":"💦XYQ┃聚合短视频","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://suanjin.github.io/main/XYQBiu/聚合短视频.js"},
 {"key":"csp_Zxzj","name":"💦SP┃在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
@@ -140,7 +140,7 @@
             "name" : "💦JS┃Alist",
             "type" : 3,
             "api" : "https://suanjin.github.io/main/JS/lib/alist.min.js",
-            "ext" : "https://suanjin.github.io/main/JS/js/alist.json"
+            "ext" : "https://suanjin.github.io/main/JS/js/alist1.json"
         },
             {
             "key" : "drpy_js_360影视",
