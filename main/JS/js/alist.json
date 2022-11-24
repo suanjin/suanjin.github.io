@@ -119,6 +119,13 @@
         "search" : true
     },
         {
+        "name" : "🦀9T(Adult)",
+        "server" : "https://drive.9t.ee",
+        "startPage" : "/",
+        "showAll" : false,
+        "search" : true
+    },        
+        {
         "name" : "💦讯维云盘",
         "server" : "https://pan.xwbeta.com",
         "startPage" : "/",
