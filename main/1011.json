@@ -145,7 +145,7 @@
 {"key":"drpy_js_乐猪TV","name":"💦JS┃乐猪TV","type":3,"api":"https://suanjin.github.io/main/JS/lib/drpy2.min.js","ext":"https://suanjin.github.io/main/JS/js/乐猪TV.js"},
 {"key":"drpy_js_RP影视","name":"💦JS┃RP影视","type":3,"api":"https://suanjin.github.io/main/JS/lib/drpy2.min.js","ext":"https://suanjin.github.io/main/JS/js/RP影视.js"},
 {"key":"drpy_js_影渣渣","name":"💦JS┃影渣渣","type":3,"api":"https://suanjin.github.io/main/JS/lib/drpy2.min.js","ext":"https://suanjin.github.io/main/JS/js/影渣渣.js"},
-{"key":"drpy_js_cokemv","name":"💦JS┃cokemv","type":3,"api":"https://suanjin.github.io/main/JS/lib/drpy2.min.js","ext":"https://suanjin.github.io/main/JS/js/cokemv.js"},
+{"key":"drpy_js_鸭奈飞","name":"💦JS┃鸭奈飞","type":3,"api":"https://suanjin.github.io/main/JS/lib/drpy2.min.js","ext":"https://suanjin.github.io/main/JS/js/鸭奈飞.js"},
 {"key":"drpy_js_LIBVIO","name":"💦JS┃LIBVIO","type":3,"api":"https://suanjin.github.io/main/JS/lib/drpy2.min.js","ext":"https://suanjin.github.io/main/JS/js/LIBVIO.js"},
 {"key":"drpy_js_酷客影院","name":"💦JS┃酷客影院","type":3,"api":"https://suanjin.github.io/main/JS/lib/drpy2.min.js","ext":"https://suanjin.github.io/main/JS/js/酷客影院.js"},
 {"key":"drpy_js_奇优影院","name":"💦JS┃奇优影院","type":3,"api":"https://suanjin.github.io/main/JS/lib/drpy2.min.js","ext":"https://suanjin.github.io/main/JS/js/奇优影院.js"},
@@ -238,7 +238,6 @@
 {"key":"drpy_js_米宝影院","name":"💦JS┃米宝影院","type":3,"api":"https://suanjin.github.io/main/JS/lib/drpy2.min.js","ext":"https://suanjin.github.io/main/JS/js/米宝影院.js"},
 {"key":"drpy_js_喵喵影院","name":"💦JS┃喵喵影院","type":3,"api":"https://suanjin.github.io/main/JS/lib/drpy2.min.js","ext":"https://suanjin.github.io/main/JS/js/喵喵.js"},
 {"key":"drpy_js_莫扎兔儿","name":"💦JS┃莫扎兔儿","type":3,"api":"https://suanjin.github.io/main/JS/lib/drpy2.min.js","ext":"https://suanjin.github.io/main/JS/js/莫扎兔.js"},
-{"key":"drpy_js_奈飞中文","name":"💦JS┃奈飞中文","type":3,"api":"https://suanjin.github.io/main/JS/lib/drpy2.min.js","ext":"https://suanjin.github.io/main/JS/js/鸭奈飞.js"},
 {"key":"drpy_js_南瓜影院","name":"💦JS┃南瓜影院","type":3,"api":"https://suanjin.github.io/main/JS/lib/drpy2.min.js","ext":"https://suanjin.github.io/main/JS/js/南瓜影院.js"},
 {"key":"drpy_js_胖虎影视","name":"💦JS┃胖虎影视","type":3,"api":"https://suanjin.github.io/main/JS/lib/drpy2.min.js","ext":"https://suanjin.github.io/main/JS/js/胖虎影视.js"},
 {"key":"drpy_js_霹雳影视","name":"💦JS┃霹雳影视","type":3,"api":"https://suanjin.github.io/main/JS/lib/drpy2.min.js","ext":"https://suanjin.github.io/main/JS/js/霹雳影视.js"},
@@ -276,6 +275,7 @@
 {"key":"drpy_js_追剧啦儿","name":"💦JS┃追剧啦儿","type":3,"api":"https://suanjin.github.io/main/JS/lib/drpy2.min.js","ext":"https://suanjin.github.io/main/JS/js/追剧啦.js"},
 {"key":"drpy_js_子子影视","name":"💦JS┃子子影视","type":3,"api":"https://suanjin.github.io/main/JS/lib/drpy2.min.js","ext":"https://suanjin.github.io/main/JS/js/子子影视.js"},
 
+{"key":"drpy_js_cokemv","name":"💦JS┃cokemv","type":3,"api":"https://suanjin.github.io/main/JS/lib/drpy2.min.js","ext":"https://suanjin.github.io/main/JS/js/cokemv.js"},
 {"key": "drpy_js_猫了个咪","name": "💦JS┃猫了个咪","type": 3,"api": "https://suanjin.github.io/main/JS/lib/drpy2.min.js","ext": "https://suanjin.github.io/main/JS/js/猫了个咪.js"},
 
 ##官系列
