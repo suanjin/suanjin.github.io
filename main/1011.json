@@ -167,6 +167,7 @@
 {"key":"drpy_js_短视频","name":"💦JS┃短视频","type":3,"api":"https://suanjin.github.io/main/JS/lib/drpy2.min.js","ext":"https://suanjin.github.io/main/JS/js/短视频.js"},
 {"key":"drpy_js_酷奇MV","name":"💦JS┃酷奇","type":3,"api":"https://suanjin.github.io/main/JS/lib/drpy2.min.js","ext":"https://suanjin.github.io/main/JS/js/酷奇MV.js"},
 {"key":"drpy_js_爱车MV","name":"💦JS┃爱车","type":3,"api":"https://suanjin.github.io/main/JS/lib/drpy2.min.js","ext":"https://suanjin.github.io/main/JS/js/爱车MV.js"},
+{"key":"drpy_js_哔哩直播","name":"💦JS┃哔哩","type":3,"api":"https://suanjin.github.io/main/JS/lib/drpy2.min.js","ext":"https://suanjin.github.io/main/JS/js/哔哩直播.js"},
 {"key":"drpy_js_斗鱼直播","name":"💦JS┃斗鱼","type":3,"api":"https://suanjin.github.io/main/JS/lib/drpy2.min.js","ext":"https://suanjin.github.io/main/JS/js/斗鱼直播.js"},
 {"key":"drpy_js_虎牙直播","name":"💦JS┃虎牙","type":3,"api":"https://suanjin.github.io/main/JS/lib/drpy2.min.js","ext":"https://suanjin.github.io/main/JS/js/虎牙直播.js"},
 {"key":"drpy_js_JustLive","name":"💦JS┃JustLive","type":3,"api":"https://suanjin.github.io/main/JS/lib/drpy2.min.js","ext":"https://suanjin.github.io/main/JS/js/JustLive.js"},
