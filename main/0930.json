@@ -2,8 +2,8 @@
 "sites":[
 //{"key":"csp_77","name":"☀️酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/suanjin/jar/raw/main/ts.jar;md5;7b3db472894cc021c4b19daa26e1282a"},
 {"key":"csp_77","name":"💦SP┃酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"csp_AppTT","name":"💦SP┃图图影视","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
-//{ "key": "Tutu_spider", "name": "💦QJ┃图图影视", "api": "csp_TutuYs", "type": 3, "filterable": 1, "quickSearch": 1, "searchable": 1, "ext": "http://45.207.11.9:6618" ,"jar":"https://gitee.com/suanjin/jar/raw/main/tutu1125.jar;md5;0625422b0f75c1a69705c7d30eded699"},
+{"key":"AppTT","name":"💦SP┃图图","type":3,"api":"csp_Dora","ext":"110c922de7d69804467fb83d3bb664b5","jar":"http://w.g9.pub:66/381203888/Jar/pandatt.jar;md5; 3D6C99CAE168DA455AA766618BE7B604"},
+	//{ "key": "Tutu_spider", "name": "💦QJ┃图图影视", "api": "csp_TutuYs", "type": 3, "filterable": 1, "quickSearch": 1, "searchable": 1, "ext": "http://45.207.11.9:6618" ,"jar":"https://gitee.com/suanjin/jar/raw/main/tutu1125.jar;md5;0625422b0f75c1a69705c7d30eded699"},
 {"key":"AppTT","name":"💦Dora┃图图","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://gitee.com/suanjin/jar/raw/main/custom_spider.jar;md5;c9ddec5d203a6235c0bae3d3527b940a"},
 {"key":"csp_GitCafe","name":"💦SP┃小纸条","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/tok"},
 {"key":"csp_kuaikan","name":"💦SP┃快看影视","type":3,"api":"csp_Kuaikan","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
