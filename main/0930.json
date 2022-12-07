@@ -322,7 +322,7 @@
 {"key":"csp_xbb_奈菲影院","name":"💦XBiu┃奈菲影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://suanjin.github.io/main/XBiubiu/奈菲影院.json"},
 {"key":"csp_xbb_VIP1280","name":"💦XBiu┃VIP1280","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://suanjin.github.io/main/XBiubiu/VIP1280.json"},
 {"key":"csp_xbb_骚火VIP","name":"💦XBiu┃骚火VIP","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://suanjin.github.io/main/XBiubiu/shdy.json"},
-{"key":"csp_xbb_视中心影院","name":"💦XBiu┃视中心影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://suanjin.github.io/main/XBiubiu/视中心影院.json"},
+{"key":"csp_xbb_视中心影院","name":"💦XBiu┃视心影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://suanjin.github.io/main/XBiubiu/视中心影院.json"},
 {"key":"csp_xbb_稀饭影视","name":"💦XBiu┃稀饭影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://suanjin.github.io/main/XBiubiu/稀饭影视.json"},
 
 ##XPath系列
@@ -366,6 +366,7 @@
 {"name":"解析左岸","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=cqrtwyACDGLOXY0249&mgtv=app&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}},
 { "name": "解析左岸1", "type": 1, "url":" http://110.42.2.115:880/analysis/json/?uid=2100&my=cqrtwyACDGLOXY0249&url=" }, 
 {"name":"解析PlayMv","type":1,"url":"proxy://do=jx&name=playmv&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":""}}},
+{"name":"解析Bt5vC","type":1,"url":"proxy://do=jx&name=bt5v&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":""}}},
 { "name": "解析风起", "type": 1, "url": "http://45.248.10.163:4433/json.php?wap=0&url=" }, 
 {"name":"解析rxvip","type":1,"url": "https://vip.rongxingvr.top/api/?key=CwQXkIXGfaUNGVomez&url=","ext": {"flag": ["rx", "ltnb", "renrenmi", "rongxing", "bilibili", "哔哩哔哩", "哔哩", "youku", "优酷", "qiyi", "爱奇艺", "奇艺", "qq", "腾讯", "mgtv", "芒果", "sohu", "搜狐", "letv", "乐视", "xigua", "CL4K", "西瓜"]}},
 {"name":"解析融xing","type":1,"url": "https://vip.rongxingvr.top/api/?key=DIcBZqAMbKBa1fRdeM&url=","ext": {"flag": ["rx", "ltnb", "renrenmi", "rongxing", "bilibili", "哔哩哔哩", "哔哩", "youku", "优酷", "qiyi", "爱奇艺", "奇艺", "qq", "腾讯", "mgtv", "芒果", "sohu", "搜狐", "letv", "乐视", "xigua", "CL4K", "西瓜"]}},
