@@ -67,7 +67,7 @@
 {"key":"csp_Cokemv","name":"💦SP┃可乐","type":3,"api":"csp_Cokemv","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Xinsj","name":"💦SP┃新视觉","type":3,"api":"csp_Xinsj","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_jihuang","name":"💦SP┃剧荒","type":3,"api":"csp_Juhuang","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_apple","name":"🍎苹果┃SP","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_apple","name":"💦SP┃苹果","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mjxq_spider","name":"💦SP┃美剧星球","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Lib","name": "💦SP┃Lib","type": 3,"api": "csp_Lib","playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Vofl","name":"💦SP┃Voflix","type":3,"api":"csp_Voflix","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
