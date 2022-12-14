@@ -331,7 +331,7 @@
 //https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/1010.json
 "wallpaper" : "http://www.kf666888.cn/api/tvbox/img",
 //"spider":"https://gitee.com/suanjin/jar/raw/main/shenqi11.jar;md5;48C4CBCA73B33274FEA2D156603A6B0B", 
-"spider":"https://gitee.com/suanjin/jar/raw/main/xo1213.jar;md5;b26777b57827e73fb99e35b64e45171b",
+"spider":"https://gitee.com/suanjin/jar/raw/main/xo1213.jar;md5;51ad827ce4b5ae1af7a778f69876c726",
 "lives": [{"name": "直播","type": 0,"url": "https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/tv/cb.txt","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
 {"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zdWFuamluLmdpdGh1Yi5pby9tYWluL3R2L2NiLnR4dA=="]}],"epg":"http://epg.51zmt.top:8000/api/diyp/"}],
 
