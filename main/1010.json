@@ -121,6 +121,7 @@
 {"key":"MBO影视","name":"💦聚┃MBO影视","type":0,"api":"https://www.mbomovie.com/api.php/provide/vod/at/xml/","searchable":0,"quickSearch":0},
 
 ##xBPQ系列
+{"key":"csp_xBPQ_乐猪影视","name":"💦XBP┃乐猪影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/xBPQ/乐猪.json"},
 {"key":"csp_xBPQ_不卡","name":"💦XBP┃不卡","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/xBPQ/不卡.json"},
 {"key":"csp_xBPQ_98","name":"💦XBP┃98影","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/xBPQ/98影院.json"},
 {"key":"csp_xBPQ_极品","name":"💦XBP┃极品","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/xBPQ/极品.json"},	
