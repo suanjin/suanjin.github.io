@@ -7,6 +7,7 @@
 {"key":"csp_Paper","name":"💦SP┃小纸条","type":3,"api":"csp_Paper","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/tok"},
 {"key":"csp_kuaikan","name":"💦SP┃快看影视","type":3,"api":"csp_Kuaikan","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"360_spider","name":"💦SP┃360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
+{"key":"csp_xBPQ_乐猪影视","name":"💦XBP┃乐猪影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/xBPQ/乐猪.json"},
 {"key":"Lezhu_spider","name":"💦SP┃乐猪影视","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"csp_Nmys","name":"💦SP┃农民影视","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/Bili/Nmys.json"},
 {"key":"csp_Lgyy","name":"💦SP┃蓝光","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
@@ -121,7 +122,6 @@
 {"key":"MBO影视","name":"💦聚┃MBO影视","type":0,"api":"https://www.mbomovie.com/api.php/provide/vod/at/xml/","searchable":0,"quickSearch":0},
 
 ##xBPQ系列
-{"key":"csp_xBPQ_乐猪影视","name":"💦XBP┃乐猪影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/xBPQ/乐猪.json"},
 {"key":"csp_xBPQ_不卡","name":"💦XBP┃不卡","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/xBPQ/不卡.json"},
 {"key":"csp_xBPQ_98","name":"💦XBP┃98影","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/xBPQ/98影院.json"},
 {"key":"csp_xBPQ_极品","name":"💦XBP┃极品","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/xBPQ/极品.json"},	
