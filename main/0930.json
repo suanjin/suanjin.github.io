@@ -88,6 +88,11 @@
 
 
 ##搜索系列
+{ "key": "紙條", "name": "💦FM┃紙條", "type": 3, "api": "csp_Paper", "searchable": 1, "filterable": 1, "ext": "http://ali.饭太硬.ml/tok" ,"jar":"https://gitee.com/suanjin/jar/raw/main/fengmi.jar;md5;0253ba01e6a8e8f11716139823b8baab"},
+{ "key": "易搜", "name": "💦FM┃易搜", "type": 3, "api": "csp_YiSo", "searchable": 1, "filterable": 0, "ext": "http://ali.饭太硬.ml/tok" ,"jar":"https://gitee.com/suanjin/jar/raw/main/fengmi.jar;md5;0253ba01e6a8e8f11716139823b8baab"}, 
+{ "key": "盤搜", "name": "💦FM┃盤搜", "type": 3, "api": "csp_PanSou", "searchable": 1, "filterable": 0, "ext": "http://ali.饭太硬.ml/tok" ,"jar":"https://gitee.com/suanjin/jar/raw/main/fengmi.jar;md5;0253ba01e6a8e8f11716139823b8baab"}, 
+{ "key": "找資源", "name": "💦FM┃找資源", "type": 3, "api": "csp_Zhaozy", "searchable": 1, "filterable": 0, "ext": "http://ali.饭太硬.ml/tok" ,"jar":"https://gitee.com/suanjin/jar/raw/main/fengmi.jar;md5;0253ba01e6a8e8f11716139823b8baab"}, 
+{ "key": "push_agent", "name": "💦FM┃推送", "type": 3, "api": "csp_Push", "searchable": 1, "filterable": 0, "ext": "http://ali.饭太硬.ml/tok" ,"jar":"https://gitee.com/suanjin/jar/raw/main/fengmi.jar;md5;0253ba01e6a8e8f11716139823b8baab"},
     {"key":"Upso","name":"💦Dora┃云搜","type":"3","api":"csp_Upso","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt","jar":"https://gitee.com/suanjin/jar/raw/main/custom_spider.jar;md5;7573e5dee052b6b1661a0bc400f190cc"},
     {"key":"Zhaozy","name":"💦Dora┃资源","type":"3","api":"csp_Zhaozy","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt","jar":"https://gitee.com/suanjin/jar/raw/main/custom_spider.jar;md5;7573e5dee052b6b1661a0bc400f190cc"},
     {"key":"YiSo","name":"💦Dora┃易搜","type":"3","api":"csp_YiSo","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt","jar":"https://gitee.com/suanjin/jar/raw/main/custom_spider.jar;md5;7573e5dee052b6b1661a0bc400f190cc"},
