@@ -83,13 +83,13 @@
 {"key": "极速资源bd","name": "💦SP┃极速资源bd","type": 1,"api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 
-##搜索系列
-    {"key":"Upso","name":"💦Dora┃云搜","type":"3","api":"csp_Upso","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt","jar":"https://gitee.com/suanjin/jar/raw/main/custom_spider.jar;md5;7573e5dee052b6b1661a0bc400f190cc"},
-    {"key":"Zhaozy","name":"💦Dora┃资源","type":"3","api":"csp_Zhaozy","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt","jar":"https://gitee.com/suanjin/jar/raw/main/custom_spider.jar;md5;7573e5dee052b6b1661a0bc400f190cc"},
-    {"key":"YiSo","name":"💦Dora┃易搜","type":"3","api":"csp_YiSo","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt","jar":"https://gitee.com/suanjin/jar/raw/main/custom_spider.jar;md5;7573e5dee052b6b1661a0bc400f190cc"},
-    {"key":"AliPS","name":"💦Dora┃盘搜","type":"3","api":"csp_AliPS","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt","jar":"https://gitee.com/suanjin/jar/raw/main/custom_spider.jar;md5;7573e5dee052b6b1661a0bc400f190cc"},
-    {"key":"push_agent","name":"💦Dora┃手机推送","type":"3","api":"csp_PushAgent","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt","jar":"https://gitee.com/suanjin/jar/raw/main/custom_spider.jar;md5;7573e5dee052b6b1661a0bc400f190cc"},
-  	
+##蜂蜜系列
+{ "key": "紙條", "name": "💦FM┃紙條", "type": 3, "api": "csp_Paper", "searchable": 1, "filterable": 1, "ext": "http://ali.饭太硬.ml/tok" ,"jar":"https://gitee.com/suanjin/jar/raw/main/fengmi.jar;md5;0253ba01e6a8e8f11716139823b8baab"},
+{ "key": "易搜", "name": "💦FM┃易搜", "type": 3, "api": "csp_YiSo", "searchable": 1, "filterable": 0, "ext": "http://ali.饭太硬.ml/tok" ,"jar":"https://gitee.com/suanjin/jar/raw/main/fengmi.jar;md5;0253ba01e6a8e8f11716139823b8baab"}, 
+{ "key": "盤搜", "name": "💦FM┃盤搜", "type": 3, "api": "csp_PanSou", "searchable": 1, "filterable": 0, "ext": "http://ali.饭太硬.ml/tok" ,"jar":"https://gitee.com/suanjin/jar/raw/main/fengmi.jar;md5;0253ba01e6a8e8f11716139823b8baab"}, 
+{ "key": "找資源", "name": "💦FM┃找資源", "type": 3, "api": "csp_Zhaozy", "searchable": 1, "filterable": 0, "ext": "http://ali.饭太硬.ml/tok" ,"jar":"https://gitee.com/suanjin/jar/raw/main/fengmi.jar;md5;0253ba01e6a8e8f11716139823b8baab"}, 
+{ "key": "push_agent", "name": "💦FM┃推送", "type": 3, "api": "csp_Push", "searchable": 1, "filterable": 0, "ext": "http://ali.饭太硬.ml/tok" ,"jar":"https://gitee.com/suanjin/jar/raw/main/fengmi.jar;md5;0253ba01e6a8e8f11716139823b8baab"},
+
 ##Bili系列
 {"key": "学习课堂","name": "💦哔哩┃学习课堂","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/Bili/学习课堂.json"},
 {"key": "空中课堂","name": "💦哔哩┃空中课堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/Bili/空中课堂.json"},
@@ -160,7 +160,14 @@
 {"key":"csp_xp_6d","name":"💦XP┃六度TV","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/XPath/6d.json"},
 {"key":"csp_xp_348z","name":"💦XP┃348电影","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/XPath/348z.json"},
 {"key":"csp_xp_dmw","name":"💦XP┃动漫岛","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/XPath/dmw.json"},
-{"key":"csp_xp_gongreng","name":"💦XP┃工人影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/XPath/gongreng.json"}],
+{"key":"csp_xp_gongreng","name":"💦XP┃工人影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/XPath/gongreng.json"}, 
+
+##搜索系列
+    {"key":"Upso","name":"💦Dora┃云搜","type":"3","api":"csp_Upso","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt","jar":"https://gitee.com/suanjin/jar/raw/main/custom_spider.jar;md5;7573e5dee052b6b1661a0bc400f190cc"},
+    {"key":"Zhaozy","name":"💦Dora┃资源","type":"3","api":"csp_Zhaozy","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt","jar":"https://gitee.com/suanjin/jar/raw/main/custom_spider.jar;md5;7573e5dee052b6b1661a0bc400f190cc"},
+    {"key":"YiSo","name":"💦Dora┃易搜","type":"3","api":"csp_YiSo","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt","jar":"https://gitee.com/suanjin/jar/raw/main/custom_spider.jar;md5;7573e5dee052b6b1661a0bc400f190cc"},
+    {"key":"AliPS","name":"💦Dora┃盘搜","type":"3","api":"csp_AliPS","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt","jar":"https://gitee.com/suanjin/jar/raw/main/custom_spider.jar;md5;7573e5dee052b6b1661a0bc400f190cc"},
+    {"key":"push_agent","name":"💦Dora┃手机推送","type":"3","api":"csp_PushAgent","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt","jar":"https://gitee.com/suanjin/jar/raw/main/custom_spider.jar;md5;7573e5dee052b6b1661a0bc400f190cc"}],
 //{"key":"csp_xp_doujiao","name":"💦XP┃豆角影视","type": 3,"api": "csp_XPath3","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/XPath/doujiao.json"},
 //{"key":"csp_xp_yingba","name":"💦XP┃电影吧","type":3,"api":"csp_XPath3","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/XPath/yingba.json"}
 //https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/1010.json
