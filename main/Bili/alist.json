@@ -1,20 +1,8 @@
 {
   "drives": [
     {
-      "name": "悟空",
-      "server": "http://悟空.tk:89"
-    },  
-    {
       "name": "歐逼",
       "server": "https://alistcn.repl.co"
-    },
-    {
-      "name": "文文",
-      "server": " http://518p8g7316.goho.co:5244"
-    },
-    {
-      "name": "小兵",
-      "server": "https://6vv.app"
     },
     {
       "name": "小雅",
@@ -79,7 +67,7 @@
     {
       "name": "9T(Adult)",
       "server": "https://drive.9t.ee"
-    },    
+    }, 
     {
       "name": "DISK",
       "server": "http://124.222.140.243:8080"
