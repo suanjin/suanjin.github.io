@@ -1,16 +1,8 @@
 {
   "drives": [
     {
-      "name": "悟空",
-      "server": "http://悟空.tk:89"
-    },  
-    {
       "name": "歐逼",
       "server": "https://alistcn.repl.co"
-    },
-    {
-      "name": "小兵",
-      "server": "https://6vv.app"
     },
     {
       "name": "小雅",
