@@ -11,7 +11,7 @@ https://xn--sss604efuw.ga/x/o.json
 
 http://饭太硬.ga/x/o.json 
 
-
+http://ltjm.ml/mao.php?url=http://饭太硬.ga/x/o.json 
 2.唐三： 
 
 https://hutool.ml/tang
@@ -57,5 +57,6 @@ http://我不是.肥猫.love:63
 
 http://肥猫.love
 
+http://ltjm.ml/mao.php?url=http://我不是.肥猫.love:63
  
  
