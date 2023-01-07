@@ -5,7 +5,9 @@ TVBox配置接口  （不分先后）
 
 1.饭太硬：
 
-http://xn--sss604efuw.ga/x/o.json 
+http://xn--sss604efuw.ga/x/o.json
+
+https://xn--sss604efuw.ga/x/o.json
 
 http://饭太硬.ga/x/o.json 
 
@@ -49,9 +51,11 @@ https://tvbox.cainisi.cf 
 
 9.肥猫接口：
 
+ http://xn--ihqu10cn4c.xn--z7x900a.love:63/
+
 http://我不是.肥猫.love:63
 
 http://肥猫.love
- 
+
  
  
