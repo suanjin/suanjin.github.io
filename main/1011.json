@@ -89,12 +89,12 @@
 
 
 ##蜂蜜系列
-{ "key": "紙條", "name": "💦FM┃紙條", "type": 3, "api": "csp_Paper", "searchable": 1, "filterable": 1, "ext": "http://ali.饭太硬.ml/tok" ,"jar":"https://gitee.com/suanjin/jar/raw/main/fengmi.jar;md5;0c652bdac4683c84e151f867dd3abe54"},
-{ "key": "易搜", "name": "💦FM┃易搜", "type": 3, "api": "csp_YiSo", "searchable": 1, "filterable": 0, "ext": "http://ali.饭太硬.ml/tok" ,"jar":"https://gitee.com/suanjin/jar/raw/main/fengmi.jar;md5;0c652bdac4683c84e151f867dd3abe54"},
-{ "key": "盤搜", "name": "💦FM┃盤搜", "type": 3, "api": "csp_PanSou", "searchable": 1, "filterable": 0, "ext": "http://ali.饭太硬.ml/tok" ,"jar":"https://gitee.com/suanjin/jar/raw/main/fengmi.jar;md5;0c652bdac4683c84e151f867dd3abe54"},
-{ "key": "UP雲搜", "name": "💦FM┃UP雲搜", "type": 3, "api": "csp_UpYun", "searchable": 1, "filterable": 0, "ext": "http://ali.饭太硬.ml/tok" ,"jar":"https://gitee.com/suanjin/jar/raw/main/fengmi.jar;md5;0c652bdac4683c84e151f867dd3abe54"},
-{ "key": "找資源", "name": "💦FM┃找資源", "type": 3, "api": "csp_Zhaozy", "searchable": 1, "filterable": 0, "ext": "http://ali.饭太硬.ml/tok" ,"jar":"https://gitee.com/suanjin/jar/raw/main/fengmi.jar;md5;0c652bdac4683c84e151f867dd3abe54"},
-{ "key": "push_agent", "name": "💦FM┃推送", "type": 3, "api": "csp_Push", "searchable": 1, "filterable": 0, "ext": "http://ali.饭太硬.ml/tok" ,"jar":"https://gitee.com/suanjin/jar/raw/main/fengmi.jar;md5;0c652bdac4683c84e151f867dd3abe54"},
+{ "key": "紙條", "name": "💦FM┃紙條", "type": 3, "api": "csp_Paper", "searchable": 1, "filterable": 1, "ext": "http://我不是.肥猫.love:63/token.php" ,"jar":"https://gitee.com/suanjin/jar/raw/main/fengmi.jar;md5;bad875495a9d88aeb0dc1744e9c85feb"}, 
+{ "key": "易搜", "name": "💦FM┃易搜", "type": 3, "api": "csp_YiSo", "searchable": 1, "filterable": 0, "ext": "http://我不是.肥猫.love:63/token.php" ,"jar":"https://gitee.com/suanjin/jar/raw/main/fengmi.jar;md5;bad875495a9d88aeb0dc1744e9c85feb"}, 
+{ "key": "盤搜", "name": "💦FM┃盤搜", "type": 3, "api": "csp_PanSou", "searchable": 1, "filterable": 0, "ext": "http://我不是.肥猫.love:63/token.php" ,"jar":"https://gitee.com/suanjin/jar/raw/main/fengmi.jar;md5;bad875495a9d88aeb0dc1744e9c85feb"}, 
+{ "key": "UP雲搜", "name": "💦FM┃UP雲搜", "type": 3, "api": "csp_UpYun", "searchable": 1, "filterable": 0, "ext": "http://我不是.肥猫.love:63/token.php" ,"jar":"https://gitee.com/suanjin/jar/raw/main/fengmi.jar;md5;bad875495a9d88aeb0dc1744e9c85feb"}, 
+{ "key": "找資源", "name": "💦FM┃找資源", "type": 3, "api": "csp_Zhaozy", "searchable": 1, "filterable": 0, "ext": "http://我不是.肥猫.love:63/token.php","jar":"https://gitee.com/suanjin/jar/raw/main/fengmi.jar;md5;bad875495a9d88aeb0dc1744e9c85feb"},
+{ "key": "push_agent", "name": "💦FM┃推送", "type": 3, "api": "csp_Push", "searchable": 1, "filterable": 0, "ext": "http://我不是.肥猫.love:63/token.php","jar":"https://gitee.com/suanjin/jar/raw/main/fengmi.jar;md5;bad875495a9d88aeb0dc1744e9c85feb"},
 
 ##Bili系列
 {"key": "学习课堂","name": "💦哔哩┃学习课堂","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/Bili/学习课堂.json"},
