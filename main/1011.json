@@ -4,7 +4,7 @@
 { "key": "csp_77", "name": "💦SP┃七七影视", "type": 3, "api": "csp_Kunyu77", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 { "key": "csp_AppTT", "name": "💦SP┃图图影视", "type": 3, "api": "csp_AppTT", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://124.248.66.107:9911" }, 
 {"key":"AppTT","name":"💦Dora┃图图","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://gitee.com/suanjin/jar/raw/main/custom_spider.jar;md5;97ee205764c3c737804f48f97b3f7be6"},
-{ "key": "csp_Paper", "name": "💦SP┃纸条", "type": 3, "api": "csp_Paper", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://ali.饭太硬.ml/tok" },
+{ "key": "csp_Paper", "name": "💦SP┃纸条", "type": 3, "api": "csp_Paper", "searchable": 1, "quickSearch": 1, "filterable": 1, "playerType":2,"ext": "http://ali.饭太硬.ml/tok" },
 { "key": "csp_kuaikan", "name": "💦SP┃快看影视", "type": 3, "api": "csp_Kuaikan", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 { "key": "csp_SP360", "name": "💦SP┃360影视", "type": 3, "api": "csp_SP360", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 {"key":"csp_xBPQ_乐猪影视","name":"💦XBP┃乐猪影视","type":3,"api":"XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/xBPQ/乐猪.json","jar":"https://gitee.com/suanjin/jar/raw/main/XBPQ.jar;md5;be427ef811e42cdd7fdf234860b6fdae"},
@@ -48,7 +48,7 @@
 {"key":"Cokemv","name":"💦Dora┃可乐","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"b88de1329655cca1beba45aa9776de70","jar":"https://gitee.com/suanjin/jar/raw/main/custom_spider.jar;md5;3835a60781cf559924009150c490166e"},
 {"key":"LiteApple","name":"💦Dora┃苹果","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"6deed4548c44b18d268a5d828f04d86e","jar":"https://gitee.com/suanjin/jar/raw/main/custom_spider.jar;md5;3835a60781cf559924009150c490166e"},
 {"key":"SP360","name":"💦Dora┃SP360","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"9248c57eb22ace4a3431fbd1a979465f","jar":"https://gitee.com/suanjin/jar/raw/main/custom_spider.jar;md5;3835a60781cf559924009150c490166e"},
-{"key":"Gitcafe","name":"💦Dora┃纸条","type":"3","api":"csp_Gitcafe","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt","jar":"https://gitee.com/suanjin/jar/raw/main/custom_spider.jar;md5;3835a60781cf559924009150c490166e"},
+{"key":"Gitcafe","name":"💦Dora┃纸条","type":"3","api":"csp_Gitcafe","searchable":"1","quickSearch":"1","filterable":"1","playerType":2,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt","jar":"https://gitee.com/suanjin/jar/raw/main/custom_spider.jar;md5;3835a60781cf559924009150c490166e"},
 {"key":"Lib","name":"💦Dora┃Libvio","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"78d057e4d03e47cb62dce13d69b41d6f","jar":"https://gitee.com/suanjin/jar/raw/main/custom_spider.jar;md5;3835a60781cf559924009150c490166e"},
 {"key":"Dy555","name":"💦Dora┃555","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"f41992bd740145ed58cb212dc0876582","jar":"https://gitee.com/suanjin/jar/raw/main/custom_spider.jar;md5;3835a60781cf559924009150c490166e"},
 {"key":"Xiaoh","name":"💦Dora┃Xiaoh","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"0842c1d2a8534ec62fb3a3ed848851a7","jar":"https://gitee.com/suanjin/jar/raw/main/custom_spider.jar;md5;3835a60781cf559924009150c490166e"},
@@ -89,7 +89,7 @@
 
 
 ##蜂蜜系列
-{ "key": "紙條", "name": "💦FM┃紙條", "type": 3, "api": "csp_Paper", "searchable": 1, "filterable": 1, "ext": "http://我不是.肥猫.love:63/token.php" ,"jar":"https://gitee.com/suanjin/jar/raw/main/fengmi.jar;md5;bad875495a9d88aeb0dc1744e9c85feb"}, 
+{ "key": "紙條", "name": "💦FM┃紙條", "type": 3, "api": "csp_Paper", "searchable": 1, "filterable": 1, "playerType":2,"ext": "http://我不是.肥猫.love:63/token.php" ,"jar":"https://gitee.com/suanjin/jar/raw/main/fengmi.jar;md5;bad875495a9d88aeb0dc1744e9c85feb"}, 
 { "key": "易搜", "name": "💦FM┃易搜", "type": 3, "api": "csp_YiSo", "searchable": 1, "filterable": 0, "ext": "http://我不是.肥猫.love:63/token.php" ,"jar":"https://gitee.com/suanjin/jar/raw/main/fengmi.jar;md5;bad875495a9d88aeb0dc1744e9c85feb"}, 
 { "key": "盤搜", "name": "💦FM┃盤搜", "type": 3, "api": "csp_PanSou", "searchable": 1, "filterable": 0, "ext": "http://我不是.肥猫.love:63/token.php" ,"jar":"https://gitee.com/suanjin/jar/raw/main/fengmi.jar;md5;bad875495a9d88aeb0dc1744e9c85feb"}, 
 { "key": "UP雲搜", "name": "💦FM┃UP雲搜", "type": 3, "api": "csp_UpYun", "searchable": 1, "filterable": 0, "ext": "http://我不是.肥猫.love:63/token.php" ,"jar":"https://gitee.com/suanjin/jar/raw/main/fengmi.jar;md5;bad875495a9d88aeb0dc1744e9c85feb"}, 
