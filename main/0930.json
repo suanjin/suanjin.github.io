@@ -410,7 +410,7 @@
 { "name": "解析全能", "type": 1, "url": "https://293.6ys6.top/alypjx.php?url=" },
 {"name":"解析云星","type":1,"url":"https://chaloli.cn/api/?key=63bad951f0ada1d236062b7a3632f81e&url="}, 
 {"name": "解析255","type": 1,"url": "http://47.108.39.237:55/api//?key=ffQTjdEIKxqZYQgN2c&amp;url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}}, 
-{"name":"解析keyu","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+{ "name": "解析keyu", "type": 1, "url": "http://newjiexi.gotka.top/keyu3.php?url=", "ext": { "flag": [ "qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩" ], "header": { "User-Agent": "okhttp/4.1.0" } } },
 {"name":"解析肥猫","type":1,"url":"http://rxjx.kuanjv.com/allm3u8.php?url="},
 {"name":"解析坏了","type":1,"url":"https://www.1920lgzy.top/json.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"解析PlayMv","type":1,"url":"proxy://do=jx&name=playmv&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":""}}},
@@ -424,7 +424,7 @@
 { "name": "解析云you", "type": 1, "url": "https://chaloli.cn/api/?key=5dcdf92bc454e1c88a5c630d80a837b1&url=" },
 {"name": "嗅探777","type": 0,"url": "https://jx.777jiexi.com/player/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
 { "name": "嗅探菜泥", "type": 0, "url":" https://jx.cainisi.cf/?v="},
-{ "name": "嗅探风起", "type": 0, "url": "http://jx.gbxy.net.cn/?url=" }, { "name": "keyu", "type": 1, "url": "http://newjiexi.gotka.top/keyu3.php?url=", "ext": { "flag": [ "qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩" ], "header": { "User-Agent": "okhttp/4.1.0" } } }
+{ "name": "嗅探风起", "type": 0, "url": "http://jx.gbxy.net.cn/?url=" }, 
 {"name": "嗅探全能[①]","type": 0,"url": "https://jx.255tv.cn/api/?key=3t4CoYwM7x73KDaBAE&url="},
 {"name": "嗅探全能[③]","type": 0,"url": "https://jx.zhanlangbu.com/?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"},"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
 {"name":"嗅探鸿途","type":0,"url":"https://h5.freejson.xyz/player/?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"},"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
