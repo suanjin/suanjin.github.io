@@ -97,11 +97,6 @@
 {"key": "高中课堂","name": "💦哔哩┃高中课堂","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/Bili/高中课堂.json"},
 {"key": "少儿教育","name": "💦哔哩┃少儿教育","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/Bili/少儿教育.json"},
  
-##py系列
-{"key":"py_cctv","name":"💦PY┃央视自选","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/py/py_cctv.py"},
-{"key":"py_cctv_full","name":"💦PY┃央视大全","type":3,"api":"py_cctv_full","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/py/py_cctv_full.py"},
-{"key": "py_cctv1","name": "💦PY┃央视","type": 3,"api": "py_cctv1","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/py/py_cctv1.py"}, 
-
 ##DRPY道长版系列
 {"key":"drpy_js_豆瓣","name":"💦JS┃豆瓣","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/JS/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/JS/js/drpy.js"},
 {"key":"drpy_js_Alist","name":"💦JS┃Alist","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/JS/lib/alist.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/JS/js/alist.json"},
