@@ -1,17 +1,14 @@
 {
 "sites":[
-//{"key":"csp_77","name":"☀️酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/suanjin/jar/raw/main/ts.jar;md5;7b3db472894cc021c4b19daa26e1282a"},
 { "key": "csp_77", "name": "💦SP┃七七影视", "type": 3, "api": "csp_Kunyu77", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 { "key": "csp_AppTT", "name": "💦SP┃图图影视", "type": 3, "api": "csp_AppTT", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://124.248.66.107:9955" }, 
 {"key":"AppTT","name":"💦Dora┃图图","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://gitee.com/suanjin/jar/raw/main/custom_spider.jar;md5;cce086b9186251e917077c683858c58a"},
-{"key":"Tutu_spider","name":"💦QJ┃图图","api":"csp_TutuYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://124.248.66.89:7788/", "jar": "https://gitee.com/suanjin/jar/raw/main/yiqikan.jar;md5;4E872E4AA2D4F8B6F4FFBC11E6B3E1A1" },
 { "key": "csp_Paper", "name": "💦SP┃纸条", "type": 3, "api": "csp_Paper", "searchable": 1, "quickSearch": 1, "filterable": 1,"playerType":2, "ext": "http://ali.饭太硬.ml/tok" },
 { "key": "csp_kuaikan", "name": "💦SP┃快看影视", "type": 3, "api": "csp_Kuaikan", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 { "key": "csp_SP360", "name": "💦SP┃360影视", "type": 3, "api": "csp_SP360", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 {"key":"csp_xBPQ_乐猪影视","name":"💦XBP┃乐猪影视","type":3,"api":"XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/xBPQ/乐猪.json","jar":"https://gitee.com/suanjin/jar/raw/main/XBPQ.jar;md5;48a774c1cb1c91fde4e6821e3d74df53"},
 { "key": "csp_Lezhu", "name": "💦SP┃乐猪影视", "type": 3, "api": "csp_Lezhu", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 { "key": "csp_Nmys", "name": "💦SP┃农民影视", "type": 3, "api": "csp_Nmys", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/Bili/Nmys.json" },
-{ "key": "csp_Lgyy", "name": "💦SP┃蓝光影视", "type": 3, "api": "csp_Lgyy", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 { "key": "csp_fant", "name": "💦SP┃饭团影视", "type": 3, "api": "csp_Fantuan", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 { "key": "teng", "name": "💦官方┃腾讯影视", "type": 3, "api": "csp_QQ", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 { "key": "ai", "name": "💦官方┃爱奇艺", "type": 3, "api": "csp_IQIYI", "searchable": 1, "quickSearch": 1, "filterable": 1 },
@@ -30,13 +27,13 @@
 {"key":"dr_兔小贝","name":"💦哔哩┃兔小贝","type":3,"api":"http://xn--m7r412advb92j21st65a.tk/dr/libs/drpy2.min.js","ext":"http://xn--m7r412advb92j21st65a.tk/dr/js/js_兔小贝.js","searchable": 0,"quickSearch": 0,"filterable": 0},
 
 ##Dora系列
-{ "key": "YQK_spider", "name": "💦QJ┃一起看", "api": "csp_YQKAPP", "type": 3, "filterable": 1, "playerType": 2, "quickSearch": 1, "searchable": 1, "ext": "https://api-tx.shumaxc.xyz", "jar": "https://gitee.com/suanjin/jar/raw/main/yiqikan.jar;md5;4E872E4AA2D4F8B6F4FFBC11E6B3E1A1" },
-//{"key":"世界杯","name":"💦Dora┃一起看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837","jar":"https://gitee.com/suanjin/jar/raw/main/custom_spider.jar;md5;cce086b9186251e917077c683858c58a"},
+//{ "key": "YQK_spider", "name": "💦QJ┃一起看", "api": "csp_YQKAPP", "type": 3, "filterable": 1, "playerType": 2, "quickSearch": 1, "searchable": 1, "ext": "https://api-tx.shumaxc.xyz", "jar": "https://gitee.com/suanjin/jar/raw/main/yiqikan.jar;md5;4E872E4AA2D4F8B6F4FFBC11E6B3E1A1" },
+{"key":"世界杯","name":"💦Dora┃一起看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837","jar":"https://gitee.com/suanjin/jar/raw/main/custom_spider.jar;md5;cce086b9186251e917077c683858c58a"},
 {"key":"Tian","name":"💦Dora┃天天","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392","jar":"https://gitee.com/suanjin/jar/raw/main/custom_spider.jar;md5;cce086b9186251e917077c683858c58a"},
 {"key":"Yanet","name":"💦Dora┃鸭奶飞","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"a369b1f623fe86605f1b029f0cf66349","jar":"https://gitee.com/suanjin/jar/raw/main/custom_spider.jar;md5;cce086b9186251e917077c683858c58a"},
 {"key":"Pang","name":"💦Dora┃胖虎","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"c41fdb671b20925c76fa9b6ff8bad027","jar":"https://gitee.com/suanjin/jar/raw/main/custom_spider.jar;md5;cce086b9186251e917077c683858c58a"},
 {"key":"Hei","name":"💦Dora┃石榴","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"3bff500c8b1e06c052a1b0f1f7a62b45","jar":"https://gitee.com/suanjin/jar/raw/main/custom_spider.jar;md5;cce086b9186251e917077c683858c58a"},
-{"key":"Lgyy","name":"💦Dora┃蓝光","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"b2e573ff040fcd54b50475660ee1a7d1","jar":"https://gitee.com/suanjin/jar/raw/main/custom_spider.jar;md5;cce086b9186251e917077c683858c58a"},
+//{"key":"Lgyy","name":"💦Dora┃蓝光","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"b2e573ff040fcd54b50475660ee1a7d1","jar":"https://gitee.com/suanjin/jar/raw/main/custom_spider.jar;md5;cce086b9186251e917077c683858c58a"},
 {"key":"Smdyy","name":"💦Dora┃神马","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"16705ee9f4764be8499806f52d4bf1e7","jar":"https://gitee.com/suanjin/jar/raw/main/custom_spider.jar;md5;cce086b9186251e917077c683858c58a"},
 {"key":"Ddys","name":"💦Dora┃低端","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"1cc92323700909e7d46623bc85b958d6","jar":"https://gitee.com/suanjin/jar/raw/main/custom_spider.jar;md5;cce086b9186251e917077c683858c58a"},
 {"key":"Dm84","name":"💦Dora┃动漫","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"572192a9fe2136041a58e7219a46fb2b","jar":"https://gitee.com/suanjin/jar/raw/main/custom_spider.jar;md5;cce086b9186251e917077c683858c58a"},
@@ -82,11 +79,10 @@
 {"key": "csp_xpath_qiumi","name": "💦XP┃球赛直播","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/XPath/516-qiumi.js"}, 
 {"key": "csp_XYQBiu_聚合短视频","name":"💦XYQ┃聚合短视频","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/XYQBiu/聚合短视频.js"},
 {"key":"csp_Zxzj","name":"💦SP┃在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
-//{"key": "极速资源dd","name": "💦SP┃极速资源","type": 1,"api": "http://www.ddzyz1.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","泰国剧","海外剧","灾难片","犯罪片","悬疑片","惊悚片","奇幻片","冒险片","武侠片","纪录片","动画片","国产动漫","日韩动漫","欧美动漫","国内综艺","海外综艺"]},
 {"key": "极速资源lz","name": "💦SP┃极速资源lz","type": 1,"api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","韩国剧","欧美剧","记录片","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","电影解说"]},
 {"key": "极速资源xl","name": "💦SP┃极速资源xl","type": 1,"api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["动作片","爱情片","科幻片","战争片","剧情片","恐怖片","喜剧片","大陆剧","港澳剧","台湾剧","欧美剧","动漫电影","韩剧","日剧","泰剧"]},
 {"key": "极速资源gs", "name": "💦SP┃极速资源gs", "type": 1, "api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories": [ "动作片", "爱情片", "科幻片", "战争片", "剧情片", "恐怖片", "喜剧片", "大陆剧", "港澳剧", "台湾剧", "欧美剧", "动漫电影", "韩剧", "日剧", "泰剧"]},
-{"key": "极速资源bd","name": "💦SP┃极速资源bd","type": 1,"api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1},
+
 
 
 ##蜂蜜系列
@@ -104,15 +100,6 @@
 {"key": "初中课堂","name": "💦哔哩┃初中课堂","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/Bili/初中课堂.json"},
 {"key": "高中课堂","name": "💦哔哩┃高中课堂","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/Bili/高中课堂.json"},
 {"key": "少儿教育","name": "💦哔哩┃少儿教育","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/Bili/少儿教育.json"},
-{"key":"Bili","name":"💦Dora┃哔哩","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"85b2986381a134ba3ebbaf25ae8138e7#https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json","jar":"https://gitee.com/suanjin/jar/raw/main/custom_spider.jar;md5;cce086b9186251e917077c683858c58a"},
-{"key": "戏曲杂苑","name": "💦哔哩┃戏曲杂苑","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/Bili/戏曲杂苑.json"},
-{"key": "相声小品","name": "💦哔哩┃相声小品","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/Bili/相声小品.json"},
-{"key": "女团热舞","name": "💦哔哩┃女团热舞","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/Bili/女团热舞.json"},
-{"key": "体育赛事","name": "💦哔哩┃体育赛事","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/Bili/体育赛事.json"},
-{"key": "美食合集","name": "💦哔哩┃美食合集","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/Bili/美食天地.json"},
-{"key": "音乐演唱","name": "💦哔哩┃音乐演唱","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/Bili/音乐演唱.json"},
-{"key":"csp_Biliych","name":"💦哔哩┃看演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/Bili/Biliych.json"},
-{"key": "Bili1","name": "💦哔哩┃视频合集","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/Bili/哔哩.json"}, 
  
 ##py系列
 {"key":"py_cctv","name":"💦PY┃央视自选","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/py/py_cctv.py"},
@@ -216,7 +203,7 @@
 {"key":"drpy_js_看片狂人","name":"💦JS┃看片狂人","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/JS/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/JS/js/看片狂人.js"},
 {"key":"drpy_js_快云影院","name":"💦JS┃快云影院","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/JS/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/JS/js/快云影院.js"},
 {"key":"drpy_js_来看点播","name":"💦JS┃来看点播","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/JS/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/JS/js/来看点播.js"},
-{"key":"drpy_js_蓝光影院","name":"💦JS┃蓝光影院","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/JS/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/JS/js/蓝光影院.js"},
+//{"key":"drpy_js_蓝光影院","name":"💦JS┃蓝光影院","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/JS/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/JS/js/蓝光影院.js"},
 {"key":"drpy_js_乐动影视","name":"💦JS┃乐动影视","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/JS/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/JS/js/乐动影视.js"},
 {"key":"drpy_js_利丽娅电影","name":"💦JS┃丽娅电影","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/JS/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/JS/js/利丽娅电影.js"},
 {"key":"drpy_js_两个 BT","name":"💦JS┃两个BT","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/JS/lib/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/JS/js/两个BT.js"},
@@ -274,12 +261,7 @@
 {"key":"天堂资源","name":"💦官方┃天堂资源","type":1,"api":"http://vipmv.cc/api.php/provide/vod","searchable":0,"quickSearch":0},
 	
 
-##聚系列
-{"key":"影图影视","name":"💦聚┃影图影视","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"小鸟动漫","name":"💦聚┃小鸟动漫","type":1,"api":"http://xydm.baicai.buzz/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"百淘影视","name":"💦聚┃百淘影视","type":1,"api":"http://ys.58g8.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"阿里影视","name":"💦聚┃阿里影视","type":1,"api":"http://aliys.cn:90/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"MBO影视","name":"💦聚┃MBO影视","type":0,"api":"https://www.mbomovie.com/api.php/provide/vod/at/xml/","searchable":0,"quickSearch":0},
+
 
 ##xBPQ系列
 {"key":"csp_xBPQ_农民影视","name":"💦XBP┃农民影视","type":3,"api":"XBPQ","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/xBPQ/农民影视.json","jar":"https://gitee.com/suanjin/jar/raw/main/XBPQ.jar;md5;48a774c1cb1c91fde4e6821e3d74df53"},
@@ -297,7 +279,7 @@
 {"key":"csp_xBPQ_爱酷影视","name":"💦XBP┃爱酷影视","type":3,"api":"XBPQ","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/xBPQ/爱酷影视.json","jar":"https://gitee.com/suanjin/jar/raw/main/XBPQ.jar;md5;48a774c1cb1c91fde4e6821e3d74df53"},
 {"key":"csp_xBPQ_零零七影视","name":"💦XBP┃零零七","type":3,"api":"XBPQ","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/xBPQ/零零七影视.json","jar":"https://gitee.com/suanjin/jar/raw/main/XBPQ.jar;md5;48a774c1cb1c91fde4e6821e3d74df53"},
 {"key":"csp_xBPQ_金眼影视","name":"💦XBP┃金眼影视","type":3,"api":"XBPQ","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/xBPQ/金眼影视.json","jar":"https://gitee.com/suanjin/jar/raw/main/XBPQ.jar;md5;48a774c1cb1c91fde4e6821e3d74df53"},
-{"key":"csp_xBPQ_蓝光影院","name":"💦XBP┃蓝光影院","type":3,"api":"XBPQ","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/xBPQ/蓝光影院.json","jar":"https://gitee.com/suanjin/jar/raw/main/XBPQ.jar;md5;48a774c1cb1c91fde4e6821e3d74df53"},
+//{"key":"csp_xBPQ_蓝光影院","name":"💦XBP┃蓝光影院","type":3,"api":"XBPQ","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/xBPQ/蓝光影院.json","jar":"https://gitee.com/suanjin/jar/raw/main/XBPQ.jar;md5;48a774c1cb1c91fde4e6821e3d74df53"},
 {"key":"csp_xBPQ_影视工场","name":"💦XBP┃影视工场","type":3,"api":"XBPQ","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/xBPQ/影视工场.json","jar":"https://gitee.com/suanjin/jar/raw/main/XBPQ.jar;md5;48a774c1cb1c91fde4e6821e3d74df53"},
 {"key":"csp_XBPQ_tvb影视","name":"️💦XBP┃云播","type":3,"api":"XBPQ","ext":"免嗅:1,分类url:http://www.tvyb03.com/vod/show/area/{area}/class/{class}/id/{cateId}/lang/{lang}/{catePg}/year/{year}.html","jar":"https://gitee.com/suanjin/jar/raw/main/XBPQ.jar;md5;48a774c1cb1c91fde4e6821e3d74df53"},
 {"key":"星辰影视","name":"️💦XBP┃星辰","type":3,"api":"XBPQ","ext":"免嗅:1,分类url:http://www.skyy8.com/skyshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html","jar":"https://gitee.com/suanjin/jar/raw/main/XBPQ.jar;md5;48a774c1cb1c91fde4e6821e3d74df53"},
@@ -356,21 +338,6 @@
 {"key":"csp_xBPQ_溪谷影视","name":"💦XBP┃溪谷影视","type":3,"api":"XBPQ","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/xBPQ/溪谷影视.json","jar":"https://gitee.com/suanjin/jar/raw/main/XBPQ.jar;md5;48a774c1cb1c91fde4e6821e3d74df53"},
 {"key":"csp_xBPQ_鸭奈飞","name":"💦XBP┃鸭奈飞","type":3,"api":"XBPQ","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/xBPQ/鸭奈飞.json","jar":"https://gitee.com/suanjin/jar/raw/main/XBPQ.jar;md5;48a774c1cb1c91fde4e6821e3d74df53"},
 {"key":"csp_xBPQ_真不卡","name":"💦XBP┃真不卡","type":3,"api":"XBPQ","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/xBPQ/真不卡.json","jar":"https://gitee.com/suanjin/jar/raw/main/XBPQ.jar;md5;48a774c1cb1c91fde4e6821e3d74df53"},
-
-##XYQB系列
-{"key":"csp_XYQBiu_万能影院","name":"💦XYQ┃万能","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/XYQBiu/万能影院.json"},
-{"key":"csp_XYQBiu_大米星球","name":"💦XYQ┃大米","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/XYQBiu/大米星球.json"},
-
-
-##XPath系列
-{"key":"csp_xpath_bttwoo","name":"💦XP┃两个BTT","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/XPath/bttwoo.json"},
-{"key":"csp_xpath_huya","name":"💦XP┃虎牙","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/XPath/huya2.json"},
-{"key":"csp_xpath_kuqimv","name":"💦XP┃酷奇MV","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/XPath/kuqimv.json"},
-{"key":"csp_xpath_cokemv","name":"💦XP┃Cokemv","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/XPath/cokemv.json"},
-{"key":"csp_xp_6d","name":"💦XP┃六度TV","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/XPath/6d.json"},
-{"key":"csp_xp_348z","name":"💦XP┃348电影","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/XPath/348z.json"},
-{"key":"csp_xp_dmw","name":"💦XP┃动漫岛","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/XPath/dmw.json"},
-{"key":"csp_xp_gongreng","name":"💦XP┃工人影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/master/main/XPath/gongreng.json"},
 
 ##搜索系列
 {"key":"Upso","name":"💦Dora┃云搜","type":"3","api":"csp_Upso","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt","jar":"https://gitee.com/suanjin/jar/raw/main/custom_spider.jar;md5;cce086b9186251e917077c683858c58a"},
