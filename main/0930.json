@@ -2,7 +2,7 @@
 "sites":[
 //{"key":"csp_77","name":"☀️酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/suanjin/jar/raw/main/ts.jar;md5;7b3db472894cc021c4b19daa26e1282a"},
 { "key": "csp_77", "name": "💦SP┃七七影视", "type": 3, "api": "csp_Kunyu77", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-{ "key": "csp_AppTT", "name": "💦SP┃图图影视", "type": 3, "api": "csp_AppTT", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://124.248.66.107:9911" }, 
+{ "key": "csp_AppTT", "name": "💦SP┃图图影视", "type": 3, "api": "csp_AppTT", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://124.248.66.107:9955" }, 
 {"key":"AppTT","name":"💦Dora┃图图","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://gitee.com/suanjin/jar/raw/main/custom_spider.jar;md5;97ee205764c3c737804f48f97b3f7be6"},
 { "key": "csp_Paper", "name": "💦SP┃纸条", "type": 3, "api": "csp_Paper", "searchable": 1, "quickSearch": 1, "filterable": 1,"playerType":2, "ext": "http://ali.饭太硬.ml/tok" },
 { "key": "csp_kuaikan", "name": "💦SP┃快看影视", "type": 3, "api": "csp_Kuaikan", "searchable": 1, "quickSearch": 1, "filterable": 1 },
