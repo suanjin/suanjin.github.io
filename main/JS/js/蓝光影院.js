@@ -2,7 +2,7 @@ muban.mxpro.二级.desc = ';;;.module-info-item-content:eq(1)&&Text;.module-info
 var rule = {
 	title:'蓝光影院',
 	模板:'mxpro',
-	host:'https://www.lgyy.tv',
+	host:'https://www.lgyy.cc',
 	// url:'/vodshow/fyclass--------fypage---.html',
 	url:'/vodshow/fyfilter.html',
     filterable:1,//是否启用分类筛选,
